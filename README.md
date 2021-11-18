@@ -1,7 +1,5 @@
 ### Rank Of Matrix
 
-ln(😅)=💧ln(😄)
-
 我一个 Python 程序员，怎么就找了个 ~~Java~~ Three JS 工作呢？
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monoglo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
