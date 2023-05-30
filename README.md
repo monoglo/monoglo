@@ -1,6 +1,8 @@
 ### Rank Of Matrix
 
-我一个 Python 程序员，怎么就找了个 ~~Java~~ ~~Three JS~~ ~~Vue~~ cordova 工作呢？
+我一个 Python 程序员，怎么就找了个 ~~Java~~ ~~Three JS~~ ~~Vue~~ ~~cordova 工作呢？~~
+
+我又找回 Python 工作了
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monoglo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
